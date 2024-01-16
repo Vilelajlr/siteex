@@ -40,7 +40,7 @@ header > img {
 
 main {
   background-color: #f0d367;
-  padding: 0px 30px 30px 30px;
+  padding-bottom: 50px;
 }
 
 .principal {
@@ -106,7 +106,7 @@ main {
 
 footer{
     background-color: #f0c367;
-    padding: 10px;
+    padding: 20px;
 }
 
 footer > h1{
